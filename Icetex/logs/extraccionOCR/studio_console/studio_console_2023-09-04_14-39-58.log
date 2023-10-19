@@ -1,0 +1,105 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 4/9/2023, 14:40:51
+  ==========================================
+  
+
+[2023-09-04T19:41:35.336Z] : [success]: Robot saved successfully
+
+[2023-09-04T19:41:39.223Z] : [info]: ---------------------------------------------
+
+[2023-09-04T19:41:39.226Z] : [success]: Bot started
+
+[2023-09-04T19:41:39.227Z] : [info]: Robot start
+
+[2023-09-04T19:41:44.304Z] : [error]: GoogleOcr: Bad image data.
+
+[2023-09-04T19:41:44.830Z] : [info]: Total execution time: 5s 76ms
+
+[2023-09-04T19:41:44.833Z] : [info]: ---------------------------------------------
+
+[2023-09-04T19:43:28.388Z] : [warn]: There is a small amount of free memory (RAM) left, 91.51% of RAM is being used (7212 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-04T19:46:28.414Z] : [warn]: There is a small amount of free memory (RAM) left, 91.97% of RAM is being used (7248 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-04T19:49:28.432Z] : [warn]: There is a small amount of free memory (RAM) left, 90.78% of RAM is being used (7154 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-04T19:49:35.570Z] : [success]: Bot started
+
+[2023-09-04T19:49:35.572Z] : [info]: Robot start
+
+[2023-09-04T19:49:39.414Z] : [error]: GoogleOcr: Bad image data.
+
+[2023-09-04T19:49:39.951Z] : [info]: Total execution time: 3s 842ms
+
+[2023-09-04T19:49:39.954Z] : [info]: ---------------------------------------------
+
+[2023-09-04T19:52:28.456Z] : [warn]: There is a small amount of free memory (RAM) left, 94.3% of RAM is being used (7432 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T01:11:39.603Z] : [success]: Robot saved successfully
+
+[2023-09-05T01:11:46.069Z] : [success]: Bot started
+
+[2023-09-05T01:11:46.070Z] : [info]: Robot start
+
+[2023-09-05T01:11:58.503Z] : [warn]: There is a small amount of free memory (RAM) left, 90.13% of RAM is being used (7103 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T01:13:28.318Z] : [warn]: There is a small amount of free memory (RAM) left, 91.27% of RAM is being used (7193 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T01:13:59.941Z] : [success]: Bot finished successfully, total execution time: 2m 13s 867ms
+
+[2023-09-05T01:13:59.944Z] : [info]: ---------------------------------------------
+
+[2023-09-05T12:46:28.389Z] : [warn]: There is a small amount of free memory (RAM) left, 95.37% of RAM is being used (7516 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T15:03:12.176Z] : [success]: Robot saved successfully
+
+[2023-09-05T15:03:58.316Z] : [warn]: There is a small amount of free memory (RAM) left, 90.79% of RAM is being used (7155 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T15:06:18.555Z] : [success]: Robot saved successfully
+
+[2023-09-05T15:06:22.380Z] : [success]: Bot started
+
+[2023-09-05T15:06:22.385Z] : [info]: Robot start
+
+[2023-09-05T15:06:30.201Z] : [error]: Input file not found
+
+[2023-09-05T15:06:31.073Z] : [info]: Total execution time: 7s 815ms
+
+[2023-09-05T15:06:31.079Z] : [info]: ---------------------------------------------
+
+[2023-09-05T15:06:58.334Z] : [warn]: There is a small amount of free memory (RAM) left, 93.43% of RAM is being used (7363 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T22:23:28.301Z] : [warn]: There is a small amount of free memory (RAM) left, 90.04% of RAM is being used (7096 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-05T23:18:44.699Z] : [success]: Robot saved successfully
+
+[2023-09-05T23:18:44.878Z] : [success]: Bot started
+
+[2023-09-05T23:18:44.879Z] : [info]: Robot start
+
+[2023-09-05T23:18:56.681Z] : [error]: Canceled by user
+
+[2023-09-05T23:18:57.101Z] : [info]: Total execution time: 11s 802ms
+
+[2023-09-05T23:18:57.103Z] : [info]: ---------------------------------------------
+
+[2023-09-05T23:19:41.622Z] : [success]: Robot saved successfully
+
+[2023-09-05T23:20:01.952Z] : [success]: Robot saved successfully
+
+[2023-09-05T23:20:05.730Z] : [success]: Robot saved successfully
+
+[2023-09-05T23:20:09.710Z] : [success]: Bot started
+
+[2023-09-05T23:20:09.712Z] : [info]: Robot start
+
+[2023-09-05T23:20:41.609Z] : [error]: Input file not found
+
+[2023-09-05T23:20:42.134Z] : [info]: Total execution time: 31s 897ms
+
+[2023-09-05T23:20:42.136Z] : [info]: ---------------------------------------------
+
+[2023-09-06T13:04:31.558Z] : [warn]: There is a small amount of free memory (RAM) left, 92.56% of RAM is being used (7295 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+

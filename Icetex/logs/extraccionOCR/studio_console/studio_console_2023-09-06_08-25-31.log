@@ -1,0 +1,541 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 6/9/2023, 8:34:48
+  ==========================================
+  
+
+[2023-09-06T13:39:25.261Z] : [success]: Robot saved successfully
+
+[2023-09-06T13:39:28.970Z] : [info]: ---------------------------------------------
+
+[2023-09-06T13:39:28.973Z] : [success]: Bot started
+
+[2023-09-06T13:39:28.974Z] : [info]: Robot start
+
+[2023-09-06T13:39:31.795Z] : [error]: Input file not found
+
+[2023-09-06T13:39:32.388Z] : [info]: Total execution time: 2s 820ms
+
+[2023-09-06T13:39:32.389Z] : [info]: ---------------------------------------------
+
+[2023-09-06T13:46:31.740Z] : [warn]: There is a small amount of free memory (RAM) left, 90.51% of RAM is being used (7133 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T13:49:01.730Z] : [warn]: There is a small amount of free memory (RAM) left, 90.01% of RAM is being used (7094 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T13:51:01.717Z] : [warn]: There is a small amount of free memory (RAM) left, 90.58% of RAM is being used (7139 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T14:55:31.788Z] : [warn]: There is a small amount of free memory (RAM) left, 91.16% of RAM is being used (7184 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T15:00:31.770Z] : [warn]: There is a small amount of free memory (RAM) left, 91.28% of RAM is being used (7194 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T15:03:29.188Z] : [success]: Robot saved successfully
+
+[2023-09-06T15:03:31.774Z] : [warn]: There is a small amount of free memory (RAM) left, 92.62% of RAM is being used (7299 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T15:06:31.807Z] : [warn]: There is a small amount of free memory (RAM) left, 94.15% of RAM is being used (7420 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T15:11:01.735Z] : [warn]: There is a small amount of free memory (RAM) left, 92.98% of RAM is being used (7328 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T15:12:42.451Z] : [success]: Robot saved successfully
+
+[2023-09-06T15:12:46.104Z] : [success]: Bot started
+
+[2023-09-06T15:12:46.111Z] : [info]: Robot start
+
+[2023-09-06T15:14:01.760Z] : [warn]: There is a small amount of free memory (RAM) left, 91.47% of RAM is being used (7209 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T15:14:21.200Z] : [success]: Bot finished successfully, total execution time: 1m 35s 80ms
+
+[2023-09-06T15:14:21.208Z] : [info]: ---------------------------------------------
+
+[2023-09-06T15:15:31.730Z] : [warn]: There is a small amount of free memory (RAM) left, 90.23% of RAM is being used (7111 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T16:46:07.361Z] : [success]: Robot saved successfully
+
+[2023-09-06T20:25:01.748Z] : [warn]: There is a small amount of free memory (RAM) left, 90.17% of RAM is being used (7106 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T20:30:31.776Z] : [warn]: There is a small amount of free memory (RAM) left, 91.03% of RAM is being used (7174 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T20:31:31.729Z] : [warn]: There is a small amount of free memory (RAM) left, 90.28% of RAM is being used (7115 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T20:34:31.760Z] : [warn]: There is a small amount of free memory (RAM) left, 90.05% of RAM is being used (7097 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T20:37:31.765Z] : [warn]: There is a small amount of free memory (RAM) left, 90.83% of RAM is being used (7158 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-06T20:43:59.432Z] : [info]: Internet connection // error
+
+[2023-09-06T20:44:18.295Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-07T13:34:03.140Z] : [warn]: There is a small amount of free memory (RAM) left, 93.05% of RAM is being used (7333 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T13:37:04.841Z] : [warn]: There is a small amount of free memory (RAM) left, 91.85% of RAM is being used (7239 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T13:39:33.135Z] : [warn]: There is a small amount of free memory (RAM) left, 90.48% of RAM is being used (7131 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T13:40:33.150Z] : [warn]: There is a small amount of free memory (RAM) left, 90.06% of RAM is being used (7098 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T13:45:40.348Z] : [success]: Robot saved successfully
+
+[2023-09-07T13:45:40.576Z] : [success]: Bot started
+
+[2023-09-07T13:45:40.578Z] : [info]: Robot start
+
+[2023-09-07T13:46:04.515Z] : [error]: Canceled by user
+
+[2023-09-07T13:46:04.802Z] : [info]: Total execution time: 23s 935ms
+
+[2023-09-07T13:46:04.805Z] : [info]: ---------------------------------------------
+
+[2023-09-07T13:47:33.092Z] : [success]: Robot saved successfully
+
+[2023-09-07T13:47:38.219Z] : [success]: Bot started
+
+[2023-09-07T13:47:38.222Z] : [info]: Robot start
+
+[2023-09-07T13:47:44.547Z] : [success]: Bot finished successfully, total execution time: 6s 321ms
+
+[2023-09-07T13:47:44.549Z] : [info]: ---------------------------------------------
+
+[2023-09-07T14:34:33.966Z] : [warn]: There is a small amount of free memory (RAM) left, 92.26% of RAM is being used (7271 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T14:49:33.156Z] : [warn]: There is a small amount of free memory (RAM) left, 91.85% of RAM is being used (7239 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T15:00:33.180Z] : [warn]: There is a small amount of free memory (RAM) left, 91.46% of RAM is being used (7208 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T15:03:33.202Z] : [warn]: There is a small amount of free memory (RAM) left, 90.69% of RAM is being used (7147 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T15:05:03.158Z] : [warn]: There is a small amount of free memory (RAM) left, 91.49% of RAM is being used (7210 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T18:39:03.146Z] : [warn]: There is a small amount of free memory (RAM) left, 91.12% of RAM is being used (7181 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T18:40:33.130Z] : [warn]: There is a small amount of free memory (RAM) left, 91.66% of RAM is being used (7224 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T18:43:33.156Z] : [warn]: There is a small amount of free memory (RAM) left, 92.53% of RAM is being used (7292 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T18:49:33.156Z] : [warn]: There is a small amount of free memory (RAM) left, 90.8% of RAM is being used (7156 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T18:53:03.135Z] : [warn]: There is a small amount of free memory (RAM) left, 90.45% of RAM is being used (7128 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T18:54:03.114Z] : [warn]: There is a small amount of free memory (RAM) left, 91.12% of RAM is being used (7181 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-07T21:51:33.177Z] : [warn]: There is a small amount of free memory (RAM) left, 93.93% of RAM is being used (7403 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T00:49:45.401Z] : [info]: Internet connection // error
+
+[2023-09-08T00:50:40.838Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-08T13:19:03.128Z] : [warn]: There is a small amount of free memory (RAM) left, 90.65% of RAM is being used (7144 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T13:20:03.140Z] : [warn]: There is a small amount of free memory (RAM) left, 95.1% of RAM is being used (7495 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T13:23:03.183Z] : [warn]: There is a small amount of free memory (RAM) left, 95.06% of RAM is being used (7492 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:19:03.150Z] : [warn]: There is a small amount of free memory (RAM) left, 90.94% of RAM is being used (7167 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:20:33.136Z] : [warn]: There is a small amount of free memory (RAM) left, 91.02% of RAM is being used (7173 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:23:33.172Z] : [warn]: There is a small amount of free memory (RAM) left, 90.65% of RAM is being used (7144 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:25:03.115Z] : [warn]: There is a small amount of free memory (RAM) left, 90.97% of RAM is being used (7169 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:28:03.148Z] : [warn]: There is a small amount of free memory (RAM) left, 90.67% of RAM is being used (7146 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:29:33.133Z] : [warn]: There is a small amount of free memory (RAM) left, 90.45% of RAM is being used (7128 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:37:30.976Z] : [info]: Internet connection // error
+
+[2023-09-08T14:37:58.839Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-08T14:38:30.684Z] : [info]: Internet connection // error
+
+[2023-09-08T14:38:38.582Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-08T14:39:33.162Z] : [warn]: There is a small amount of free memory (RAM) left, 92.7% of RAM is being used (7306 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T14:43:03.146Z] : [warn]: There is a small amount of free memory (RAM) left, 90.39% of RAM is being used (7124 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T15:01:03.147Z] : [warn]: There is a small amount of free memory (RAM) left, 91.35% of RAM is being used (7199 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T15:03:33.148Z] : [warn]: There is a small amount of free memory (RAM) left, 92.92% of RAM is being used (7323 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T15:06:33.169Z] : [warn]: There is a small amount of free memory (RAM) left, 92.44% of RAM is being used (7285 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T16:24:03.134Z] : [warn]: There is a small amount of free memory (RAM) left, 90.27% of RAM is being used (7114 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T19:18:03.154Z] : [warn]: There is a small amount of free memory (RAM) left, 91.18% of RAM is being used (7186 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T19:19:04.170Z] : [success]: Robot saved successfully
+
+[2023-09-08T19:23:33.187Z] : [warn]: There is a small amount of free memory (RAM) left, 93.31% of RAM is being used (7354 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T19:25:33.146Z] : [warn]: There is a small amount of free memory (RAM) left, 90.12% of RAM is being used (7102 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T19:28:16.137Z] : [success]: Robot saved successfully
+
+[2023-09-08T20:11:15.866Z] : [warn]: There is a small amount of free memory (RAM) left, 92.26% of RAM is being used (7271 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T21:01:03.132Z] : [warn]: There is a small amount of free memory (RAM) left, 91.31% of RAM is being used (7196 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T21:20:03.142Z] : [warn]: There is a small amount of free memory (RAM) left, 90.12% of RAM is being used (7102 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T21:21:33.149Z] : [warn]: There is a small amount of free memory (RAM) left, 91.49% of RAM is being used (7210 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T21:24:33.184Z] : [warn]: There is a small amount of free memory (RAM) left, 91.69% of RAM is being used (7226 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T21:34:33.190Z] : [warn]: There is a small amount of free memory (RAM) left, 90.41% of RAM is being used (7125 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T22:17:33.145Z] : [warn]: There is a small amount of free memory (RAM) left, 93.67% of RAM is being used (7382 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T22:20:03.104Z] : [warn]: There is a small amount of free memory (RAM) left, 90.46% of RAM is being used (7129 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T22:21:33.152Z] : [warn]: There is a small amount of free memory (RAM) left, 90.03% of RAM is being used (7095 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-08T22:23:33.151Z] : [warn]: There is a small amount of free memory (RAM) left, 90.32% of RAM is being used (7118 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-09T00:40:33.155Z] : [warn]: There is a small amount of free memory (RAM) left, 90.19% of RAM is being used (7108 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-09T00:46:03.127Z] : [warn]: There is a small amount of free memory (RAM) left, 92.02% of RAM is being used (7252 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-09T00:49:03.102Z] : [warn]: There is a small amount of free memory (RAM) left, 90.65% of RAM is being used (7144 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-09T00:50:33.155Z] : [warn]: There is a small amount of free memory (RAM) left, 90.29% of RAM is being used (7116 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-09T00:58:33.207Z] : [warn]: There is a small amount of free memory (RAM) left, 90.72% of RAM is being used (7150 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-09T01:00:03.102Z] : [warn]: There is a small amount of free memory (RAM) left, 91.87% of RAM is being used (7240 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T00:33:03.150Z] : [warn]: There is a small amount of free memory (RAM) left, 92.97% of RAM is being used (7327 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T17:24:33.428Z] : [warn]: There is a small amount of free memory (RAM) left, 93.71% of RAM is being used (7385 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T17:27:33.477Z] : [warn]: There is a small amount of free memory (RAM) left, 92.58% of RAM is being used (7296 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T17:30:33.482Z] : [warn]: There is a small amount of free memory (RAM) left, 93.6% of RAM is being used (7377 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T17:33:33.490Z] : [warn]: There is a small amount of free memory (RAM) left, 90.93% of RAM is being used (7166 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T17:42:51.126Z] : [info]: Internet connection // error
+
+[2023-09-10T17:42:54.362Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-10T17:53:34.831Z] : [info]: Internet connection // error
+
+[2023-09-10T17:53:38.759Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-10T18:06:53.339Z] : [info]: Internet connection // error
+
+[2023-09-10T18:06:57.196Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-10T18:27:03.126Z] : [warn]: There is a small amount of free memory (RAM) left, 90.74% of RAM is being used (7151 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T18:46:33.185Z] : [warn]: There is a small amount of free memory (RAM) left, 90.52% of RAM is being used (7134 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T18:49:03.094Z] : [warn]: There is a small amount of free memory (RAM) left, 90.24% of RAM is being used (7112 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T18:51:03.093Z] : [warn]: There is a small amount of free memory (RAM) left, 90.98% of RAM is being used (7170 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T18:54:03.122Z] : [warn]: There is a small amount of free memory (RAM) left, 91.74% of RAM is being used (7230 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T18:57:03.149Z] : [warn]: There is a small amount of free memory (RAM) left, 91.16% of RAM is being used (7184 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T19:01:03.119Z] : [warn]: There is a small amount of free memory (RAM) left, 91.02% of RAM is being used (7173 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T19:26:33.159Z] : [warn]: There is a small amount of free memory (RAM) left, 90.19% of RAM is being used (7108 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T21:46:03.120Z] : [warn]: There is a small amount of free memory (RAM) left, 90.18% of RAM is being used (7107 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T21:47:03.093Z] : [warn]: There is a small amount of free memory (RAM) left, 91.64% of RAM is being used (7222 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T21:50:03.124Z] : [warn]: There is a small amount of free memory (RAM) left, 91.59% of RAM is being used (7218 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-10T21:53:03.129Z] : [warn]: There is a small amount of free memory (RAM) left, 91.44% of RAM is being used (7206 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:12:33.147Z] : [warn]: There is a small amount of free memory (RAM) left, 90.36% of RAM is being used (7121 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:13:33.126Z] : [warn]: There is a small amount of free memory (RAM) left, 90.19% of RAM is being used (7108 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:16:33.166Z] : [warn]: There is a small amount of free memory (RAM) left, 90.71% of RAM is being used (7149 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:19:33.123Z] : [warn]: There is a small amount of free memory (RAM) left, 90.12% of RAM is being used (7102 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:25:03.123Z] : [warn]: There is a small amount of free memory (RAM) left, 92.11% of RAM is being used (7259 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:28:03.151Z] : [warn]: There is a small amount of free memory (RAM) left, 91.17% of RAM is being used (7185 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T01:31:03.155Z] : [warn]: There is a small amount of free memory (RAM) left, 90.45% of RAM is being used (7128 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T12:52:03.109Z] : [warn]: There is a small amount of free memory (RAM) left, 95.18% of RAM is being used (7501 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T12:52:06.293Z] : [info]: Internet connection // error
+
+[2023-09-11T12:52:11.873Z] : [success]: Connection to our licenses server is restored
+
+[2023-09-11T12:55:03.163Z] : [warn]: There is a small amount of free memory (RAM) left, 91.85% of RAM is being used (7239 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T13:02:16.599Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:20:39.593Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:31:34.702Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:31:38.677Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:31:43.809Z] : [success]: Bot started
+
+[2023-09-11T15:31:43.810Z] : [info]: Robot start
+
+[2023-09-11T15:32:00.280Z] : [success]: Bot finished successfully, total execution time: 16s 466ms
+
+[2023-09-11T15:32:00.282Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:32:35.078Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:35:12.235Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:35:17.113Z] : [success]: Bot started
+
+[2023-09-11T15:35:17.115Z] : [info]: Robot start
+
+[2023-09-11T15:35:25.010Z] : [error]: ENOENT: no such file or directory, open 'C:\Program Files\ElectroNeek Studio Pro\template.docx'
+
+[2023-09-11T15:35:26.023Z] : [info]: Total execution time: 7s 893ms
+
+[2023-09-11T15:35:26.027Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:36:30.169Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:36:35.357Z] : [success]: Bot started
+
+[2023-09-11T15:36:35.360Z] : [info]: Robot start
+
+[2023-09-11T15:36:39.800Z] : [error]: The "path" argument must be of type string. Received an instance of Array
+
+[2023-09-11T15:36:40.229Z] : [info]: Total execution time: 4s 441ms
+
+[2023-09-11T15:36:40.231Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:37:16.140Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:37:20.022Z] : [success]: Bot started
+
+[2023-09-11T15:37:20.024Z] : [info]: Robot start
+
+[2023-09-11T15:37:24.647Z] : [error]: ENOENT: no such file or directory, open 'C:\Program Files\ElectroNeek Studio Pro\template.docx'
+
+[2023-09-11T15:37:25.247Z] : [info]: Total execution time: 4s 622ms
+
+[2023-09-11T15:37:25.249Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:39:52.414Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:39:57.068Z] : [success]: Bot started
+
+[2023-09-11T15:39:57.071Z] : [info]: Robot start
+
+[2023-09-11T15:40:01.345Z] : [error]: ENOENT: no such file or directory, open 'C:\Program Files\ElectroNeek Studio Pro\template.docx'
+
+[2023-09-11T15:40:01.871Z] : [info]: Total execution time: 4s 273ms
+
+[2023-09-11T15:40:01.873Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:41:55.455Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:42:00.418Z] : [success]: Bot started
+
+[2023-09-11T15:42:00.421Z] : [info]: Robot start
+
+[2023-09-11T15:42:03.089Z] : [warn]: There is a small amount of free memory (RAM) left, 90.01% of RAM is being used (7094 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T15:42:04.108Z] : [success]: Bot finished successfully, total execution time: 3s 684ms
+
+[2023-09-11T15:42:04.111Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:43:06.831Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:43:11.233Z] : [success]: Bot started
+
+[2023-09-11T15:43:11.235Z] : [info]: Robot start
+
+[2023-09-11T15:43:15.819Z] : [success]: Bot finished successfully, total execution time: 4s 580ms
+
+[2023-09-11T15:43:15.821Z] : [info]: ---------------------------------------------
+
+[2023-09-11T15:43:41.458Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:44:01.800Z] : [success]: Robot saved successfully
+
+[2023-09-11T15:57:33.120Z] : [warn]: There is a small amount of free memory (RAM) left, 90.1% of RAM is being used (7101 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T15:58:33.131Z] : [warn]: There is a small amount of free memory (RAM) left, 90.2% of RAM is being used (7109 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:15:03.118Z] : [warn]: There is a small amount of free memory (RAM) left, 91.44% of RAM is being used (7206 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:28:03.116Z] : [warn]: There is a small amount of free memory (RAM) left, 90.72% of RAM is being used (7150 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:32:33.144Z] : [warn]: There is a small amount of free memory (RAM) left, 93.11% of RAM is being used (7338 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:35:33.165Z] : [warn]: There is a small amount of free memory (RAM) left, 92.22% of RAM is being used (7268 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:38:33.169Z] : [warn]: There is a small amount of free memory (RAM) left, 90.43% of RAM is being used (7127 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:39:33.111Z] : [warn]: There is a small amount of free memory (RAM) left, 92.42% of RAM is being used (7284 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:52:03.088Z] : [warn]: There is a small amount of free memory (RAM) left, 90.05% of RAM is being used (7097 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:53:03.088Z] : [warn]: There is a small amount of free memory (RAM) left, 94.1% of RAM is being used (7416 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:56:03.103Z] : [warn]: There is a small amount of free memory (RAM) left, 93.34% of RAM is being used (7356 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T16:59:03.107Z] : [warn]: There is a small amount of free memory (RAM) left, 92.01% of RAM is being used (7251 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:02:03.113Z] : [warn]: There is a small amount of free memory (RAM) left, 91.74% of RAM is being used (7230 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:12:51.452Z] : [success]: Robot saved successfully
+
+[2023-09-11T17:19:41.187Z] : [success]: Robot saved successfully
+
+[2023-09-11T17:19:46.970Z] : [success]: Bot started
+
+[2023-09-11T17:19:46.972Z] : [info]: Robot start
+
+[2023-09-11T17:19:55.254Z] : [error]: File 'C:\Users\CLARO\Documents\ElectroNeek\Icetex\Icetex\null' does not exist.
+
+[2023-09-11T17:19:56.291Z] : [info]: Total execution time: 8s 281ms
+
+[2023-09-11T17:19:56.293Z] : [info]: ---------------------------------------------
+
+[2023-09-11T17:22:06.185Z] : [success]: Robot saved successfully
+
+[2023-09-11T17:22:12.371Z] : [success]: Bot started
+
+[2023-09-11T17:22:12.372Z] : [info]: Robot start
+
+[2023-09-11T17:22:17.074Z] : [error]: Wrong file format. Please, specify a file with the .json extension
+
+[2023-09-11T17:22:17.476Z] : [info]: Total execution time: 4s 702ms
+
+[2023-09-11T17:22:17.477Z] : [info]: ---------------------------------------------
+
+[2023-09-11T17:22:55.987Z] : [success]: Robot saved successfully
+
+[2023-09-11T17:23:01.267Z] : [success]: Bot started
+
+[2023-09-11T17:23:01.268Z] : [info]: Robot start
+
+[2023-09-11T17:23:16.101Z] : [success]: Bot finished successfully, total execution time: 14s 829ms
+
+[2023-09-11T17:23:16.104Z] : [info]: ---------------------------------------------
+
+[2023-09-11T17:28:33.131Z] : [warn]: There is a small amount of free memory (RAM) left, 91.14% of RAM is being used (7183 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:31:33.150Z] : [warn]: There is a small amount of free memory (RAM) left, 93.33% of RAM is being used (7355 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:34:33.307Z] : [warn]: There is a small amount of free memory (RAM) left, 93.77% of RAM is being used (7390 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:34:36.430Z] : [success]: Robot saved successfully
+
+[2023-09-11T17:34:40.983Z] : [success]: Bot started
+
+[2023-09-11T17:34:40.984Z] : [info]: Robot start
+
+[2023-09-11T17:34:52.761Z] : [success]: Bot finished successfully, total execution time: 11s 771ms
+
+[2023-09-11T17:34:52.766Z] : [info]: ---------------------------------------------
+
+[2023-09-11T17:35:33.118Z] : [warn]: There is a small amount of free memory (RAM) left, 90.24% of RAM is being used (7112 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:35:52.745Z] : [success]: Bot started
+
+[2023-09-11T17:35:52.747Z] : [info]: Robot start
+
+[2023-09-11T17:36:02.457Z] : [success]: Bot finished successfully, total execution time: 9s 702ms
+
+[2023-09-11T17:36:02.461Z] : [info]: ---------------------------------------------
+
+[2023-09-11T17:39:03.092Z] : [warn]: There is a small amount of free memory (RAM) left, 90.45% of RAM is being used (7128 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:40:26.695Z] : [success]: Bot started
+
+[2023-09-11T17:40:26.696Z] : [info]: Robot start
+
+[2023-09-11T17:40:33.109Z] : [warn]: There is a small amount of free memory (RAM) left, 91.32% of RAM is being used (7197 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-09-11T17:40:35.502Z] : [success]: Bot finished successfully, total execution time: 8s 801ms
+
+[2023-09-11T17:40:35.505Z] : [info]: ---------------------------------------------
+
+[2023-09-11T17:40:46.633Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.637Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.639Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.641Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.642Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.659Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.660Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.664Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.670Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.673Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.676Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.679Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.686Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.689Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.692Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.696Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.703Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.706Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.707Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.711Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.717Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.720Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.724Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.727Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.732Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.736Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.739Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.744Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.748Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.751Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.755Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.759Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.765Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.768Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.772Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.775Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-09-11T17:40:46.785Z] : [error]: Cannot read properties of null (reading 'type')
+

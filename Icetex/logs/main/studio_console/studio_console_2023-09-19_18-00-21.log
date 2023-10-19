@@ -1,0 +1,9 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 19/9/2023, 18:05:03
+  ==========================================
+  
+
+[2023-09-19T23:06:21.545Z] : [warn]: There is a small amount of free memory (RAM) left, 90.08% of RAM is being used (7099 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+

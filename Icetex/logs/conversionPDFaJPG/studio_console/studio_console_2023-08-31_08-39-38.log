@@ -1,0 +1,75 @@
+
+  ==========================================
+  Studio Pro version: 9.5.18
+  Started at: 31/8/2023, 14:21:52
+  ==========================================
+  
+
+[2023-08-31T19:22:14.749Z] : [success]: Robot saved successfully
+
+[2023-08-31T19:22:20.310Z] : [success]: Bot started
+
+[2023-08-31T19:22:20.312Z] : [info]: Robot start
+
+[2023-08-31T19:22:28.195Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2023-08-31T19:22:28.813Z] : [info]: Total execution time: 7s 880ms
+
+[2023-08-31T19:22:28.815Z] : [info]: ---------------------------------------------
+
+[2023-08-31T19:22:38.233Z] : [warn]: There is a small amount of free memory (RAM) left, 91.45% of RAM is being used (7207 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-08-31T19:25:38.280Z] : [warn]: There is a small amount of free memory (RAM) left, 92.41% of RAM is being used (7283 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-08-31T19:36:34.585Z] : [success]: Bot started
+
+[2023-08-31T19:36:34.589Z] : [info]: Robot start
+
+[2023-08-31T19:36:37.965Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2023-08-31T19:36:38.728Z] : [info]: Total execution time: 3s 376ms
+
+[2023-08-31T19:36:38.730Z] : [info]: ---------------------------------------------
+
+[2023-08-31T19:36:51.456Z] : [success]: Bot started
+
+[2023-08-31T19:36:51.461Z] : [info]: Robot start
+
+[2023-08-31T19:36:53.808Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2023-08-31T19:36:54.442Z] : [info]: Total execution time: 2s 347ms
+
+[2023-08-31T19:36:54.444Z] : [info]: ---------------------------------------------
+
+[2023-08-31T19:38:18.377Z] : [success]: Robot saved successfully
+
+[2023-08-31T19:38:24.826Z] : [success]: Bot started
+
+[2023-08-31T19:38:24.829Z] : [info]: Robot start
+
+[2023-08-31T19:38:27.489Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2023-08-31T19:38:28.000Z] : [info]: Total execution time: 2s 660ms
+
+[2023-08-31T19:38:28.004Z] : [info]: ---------------------------------------------
+
+[2023-08-31T19:41:08.237Z] : [warn]: There is a small amount of free memory (RAM) left, 90.05% of RAM is being used (7097 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-08-31T19:42:59.995Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.005Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.024Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.049Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.054Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.073Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.089Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.093Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-08-31T19:43:00.103Z] : [error]: Cannot read properties of null (reading 'type')
+
